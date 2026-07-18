@@ -25,9 +25,15 @@ This repository contains my hands-on OPNsense Firewall Homelab performed in Virt
 - SMB & Telnet Blocking
 
 ## Repository Contents
-- Report 1 – OPNsense Installation and Initial Configuration.pdf
-- Report 2 – Firewall Rule Configuration and Verification.pdf
-- Report 3 – Firewall Policy Validation Lab.pdf
+
+### Lab 01
+- OPNsense_Firewall_Configuration_Walkthrough.pdf
+
+### Lab 02
+- OPNsense_Firewall_Rule_Configuration_and_Verification.pdf
+
+### Lab 03
+- OPNsense_Firewall_Policy_Validation_Lab.pdf
 
 ## Author
 **Mitrajsinh Solanki**
